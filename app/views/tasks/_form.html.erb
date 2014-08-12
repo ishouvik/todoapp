@@ -1,0 +1,36 @@
+<div class="well">
+  <%= form_for(@task) do |f| %>
+    <% if @task.errors.any? %>
+      <div id="error_explanation">
+        <h2><%= pluralize(@task.errors.count, "error") %> prohibited this task from being saved:</h2>
+
+        <ul>
+        <% @task.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <div class="form-group">
+      <%= f.text_field :title, { required: true, class: 'form-control', placeholder: 'Example Task' } %>
+    </div>
+    <div class="form-group">
+      <%= f.text_area :content, { required: true, class: 'form-control', placeholder: t(:placeholder) } %>
+    </div>
+    <div class="form-group">
+      <%= f.label :scheduled_at %>
+      <%= f.datetime_select :scheduled_at, { required: true, class: 'form-control', placeholder: 'Example Task' } %>
+    </div>
+    <% if !@task.id.blank? %>
+      <div class="form-group">
+        <%= f.check_box :completed %>
+        <%= f.label :completed %>
+      </div>
+    <% end %>
+    <div class="form-group">
+      <%= f.submit class: 'btn btn-primary' %>
+      <%= link_to t(:cancel), '#', { id: 'task-cancel', class: 'btn btn-default' } %>
+    </div>
+  <% end %>
+</div>

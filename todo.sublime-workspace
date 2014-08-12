@@ -1,0 +1,1798 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"blog",
+				"blog_category"
+			],
+			[
+				"Blog",
+				"BlogCategory"
+			],
+			[
+				"bl",
+				"blog_categories"
+			],
+			[
+				"end",
+				"end	ERB end tag"
+			],
+			[
+				"else",
+				"else	ERB else tag"
+			],
+			[
+				"check",
+				"check_box_tag"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"find",
+				"find_by_name"
+			],
+			[
+				"ass",
+				"associate_role"
+			],
+			[
+				"role",
+				"roles_users"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"conte",
+				"content_for"
+			],
+			[
+				"cover",
+				"cover_img"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"text_",
+				"text_field"
+			],
+			[
+				"slider",
+				"slider_params"
+			],
+			[
+				"all",
+				"all_sliders_path"
+			],
+			[
+				"ht",
+				"html_safe"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"cate",
+				"category_ids"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"meta",
+				"meta_keywords"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"blo",
+				"blog_post"
+			],
+			[
+				"blog_",
+				"blog_posts"
+			],
+			[
+				"path",
+				"pathArray"
+			],
+			[
+				"se",
+				"secondLevelLocation"
+			],
+			[
+				"site_",
+				"site_name"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pos",
+				"postUrl"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"site",
+				"sitemap"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"app",
+				"appointments"
+			],
+			[
+				"ap",
+				"appointments"
+			],
+			[
+				"other",
+				"other-text"
+			],
+			[
+				"o",
+				"other-text"
+			],
+			[
+				"treatm",
+				"treatment"
+			],
+			[
+				"news",
+				"news_category"
+			],
+			[
+				"content",
+				"content_for"
+			],
+			[
+				"News",
+				"NewsCategory"
+			],
+			[
+				"cae",
+				"category_ids"
+			],
+			[
+				"ne",
+				"news_category"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"appo",
+				"appointment"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"trea",
+				"treatment_category"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"t",
+				"treatment"
+			],
+			[
+				"fl-n",
+				"fl-n	float: none;"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"Test",
+				"testimonial"
+			],
+			[
+				"tes",
+				"testimonial"
+			],
+			[
+				"te",
+				"testimonial"
+			],
+			[
+				"treat",
+				"treatment_item"
+			],
+			[
+				"treatment",
+				"treatment_item"
+			],
+			[
+				"Trea",
+				"TreatmentItem"
+			],
+			[
+				"treatme",
+				"treatment_items"
+			],
+			[
+				"tea",
+				"team_member_params"
+			],
+			[
+				"team",
+				"team_member"
+			],
+			[
+				"Team",
+				"TeamMember"
+			],
+			[
+				"treatment_",
+				"treatment_category"
+			],
+			[
+				"ff",
+				"f4f4f4"
+			],
+			[
+				"treate",
+				"treatment_categories"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"treatment_ca",
+				"treatment_category"
+			],
+			[
+				"layou",
+				"layouts"
+			],
+			[
+				"treatment-",
+				"treatment-categories"
+			],
+			[
+				"treament",
+				"treatment_categories"
+			],
+			[
+				"tre",
+				"treatment_category_params"
+			],
+			[
+				"datae",
+				"data-target"
+			],
+			[
+				"la",
+				"layouts"
+			],
+			[
+				"dro",
+				"dropdown-toggle"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"ac",
+				"account_params"
+			],
+			[
+				"ec",
+				"encrypted_password"
+			],
+			[
+				"acc",
+				"account_params"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"lam",
+				"lambda"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"slde",
+				"slide_1"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"imae",
+				"imageUrl"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"passw",
+				"password_confirmation"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"rie",
+				"redirect_to"
+			],
+			[
+				"sc",
+				"success"
+			],
+			[
+				"fi",
+				"find_by_id"
+			],
+			[
+				"successf",
+				"successfully"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sli",
+				"slide-1"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"is",
+				"is-navbar"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"page",
+				"page_path"
+			],
+			[
+				"validat",
+				"validates_presence_of"
+			],
+			[
+				"red",
+				"redirect_to"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"be",
+				"belongs_to"
+			],
+			[
+				"section",
+				"section_edits"
+			],
+			[
+				"subjec",
+				"subject_id"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"show",
+				"show_album_img"
+			],
+			[
+				"mod",
+				"modulerun	ci-module-run"
+			],
+			[
+				"img",
+				"img_data"
+			],
+			[
+				"admin",
+				"admin_album_img"
+			],
+			[
+				"mode",
+				"moduledata	ci-module-data-array"
+			],
+			[
+				"cache",
+				"cache_delete"
+			],
+			[
+				"load",
+				"load_view	CI - Load View"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/tasks_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1833,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/tasks/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 1033,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/tasks/new.js.erb",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/tasks/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/tasks_helper.rb",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/tasks.js.coffee",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/task.rb",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"codeit",
+				"Snippet: CI - Assign the CodeIgniter object to a variable"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/Rails/todo/config/initializers/filter_parameter_logging.rb",
+		"/var/www/Rails/todo/app/views/layouts/application.html.erb",
+		"/var/www/Rails/todo/db/migrate/20140811182423_create_tasks.rb",
+		"/var/www/Rails/todo/config/locales/en.yml",
+		"/var/www/Rails/todo/app/assets/stylesheets/application.css",
+		"/var/www/Rails/todo/app/assets/javascripts/application.js",
+		"/var/www/Rails/todo/app/mailers/.keep",
+		"/var/www/Rails/todo/app/assets/stylesheets/tasks.css.scss",
+		"/var/www/Rails/todo/config/application.rb",
+		"/var/www/Rails/todo/app/helpers/application_helper.rb",
+		"/var/www/Rails/todo/Gemfile",
+		"/var/www/Rails/todo/app/views/tasks/_form.html.erb",
+		"/var/www/Rails/todo/lib/tasks/.keep",
+		"/var/www/Rails/todo/test/models/task_test.rb",
+		"/var/www/Rails/todo/app/models/.keep",
+		"/var/www/Rails/todo/config/initializers/mime_types.rb",
+		"/var/www/Rails/todo/app/views/layouts/_navbar.html.erb",
+		"/var/www/Rails/todo/app/views/layouts/_header.html.erb",
+		"/home/shouvik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/shouvik/.config/sublime-text-3/Packages/User/Ruby.sublime-snippet",
+		"/var/www/Rails/todo/app/views/layouts/_notifications.html.erb",
+		"/var/www/Rails/todo/config/routes.rb",
+		"/var/www/Rails/todo/config/environments/development.rb",
+		"/var/www/Rails/todo/app/assets/stylesheets/scaffolds.css.scss",
+		"/var/www/Rails/todo/db/schema.rb",
+		"/var/www/Rails/todo/db/seeds.rb",
+		"/var/www/Rails/todo/config/database.yml",
+		"/var/www/html/projects/assets/javascript/main.js",
+		"/var/www/html/projects/assets/stylesheet/main.css",
+		"/var/www/html/projects/pages/example.html",
+		"/var/www/html/projects/README.md",
+		"/var/www/html/projects/assets/img",
+		"/var/www/html/projects/vendor/bootstrap/index.htm",
+		"/var/www/html/projects/vendor/bootstrap/config.json",
+		"/var/www/Rails/yuva/app/assets/javascripts/main.js.coffee",
+		"/var/www/Rails/yuva/app/views/layouts/admin.html.erb",
+		"/var/www/Rails/yuva/app/controllers/pages_controller.rb",
+		"/var/www/Rails/yuva/app/controllers/application_controller.rb",
+		"/var/www/Rails/yuva/app/helpers/application_helper.rb",
+		"/var/www/Rails/yuva/app/models/ability.rb",
+		"/var/www/Rails/yuva/test/models/page_test.rb",
+		"/var/www/Rails/yuva/app/views/pages/index.html.erb",
+		"/var/www/Rails/yuva/public/assets/ckeditor/lang/el.js",
+		"/var/www/Rails/yuva/public/assets/ckeditor/lang/gl.js",
+		"/var/www/Rails/yuva/public/assets/ckeditor/lang/en-gb-ecbdf10b13fe49e8b4b6c7b431da9cdb.js",
+		"/var/www/Rails/yuva/public/assets/ckeditor/LICENSE.md",
+		"/var/www/Rails/yuva/app/assets/stylesheets/main.css.scss",
+		"/var/www/Rails/yuva/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/var/www/Rails/yuva/app/models/blog_post.rb",
+		"/var/www/Rails/yuva/config/routes.rb",
+		"/var/www/Rails/yuva/app/controllers/search_results_controller.rb",
+		"/var/www/Rails/yuva/app/controllers/blog_posts_controller.rb",
+		"/var/www/Rails/yuva/app/views/search_results/_form.html.erb",
+		"/var/www/Rails/yuva/db/seeds.rb",
+		"/var/www/Rails/yuva/app/views/blog_posts/show.html.erb",
+		"/var/www/Rails/yuva/app/views/layouts/two_col_right_sidebar.html.erb",
+		"/var/www/Rails/yuva/app/views/blog_posts/create.html.erb",
+		"/var/www/Rails/yuva/app/views/blog_posts/_form.html.erb",
+		"/var/www/Rails/yuva/app/views/layouts/modalDialog.html.erb",
+		"/var/www/Rails/yuva/app/views/blog_posts/index.html.erb",
+		"/var/www/Rails/yuva/app/views/sliders/_showslide.html.erb",
+		"/var/www/Rails/yuva/app/views/layouts/_sidebar.html.erb",
+		"/var/www/Rails/yuva/app/views/layouts/_navbar.html.erb",
+		"/var/www/Rails/yuva/app/models/page.rb",
+		"/var/www/Rails/yuva/app/models/slider.rb",
+		"/var/www/Rails/yuva/config/initializers/carrierwave.rb",
+		"/var/www/Rails/yuva/app/uploaders/image_uploader.rb",
+		"/var/www/Rails/yuva/app/views/blog_posts/update.html.erb",
+		"/var/www/Rails/yuva/app/controllers/users_controller.rb",
+		"/var/www/Rails/yuva/app/views/accounts/_form.html.erb",
+		"/var/www/Rails/yuva/app/mailers/.keep",
+		"/var/www/Rails/yuva/app/helpers/blog_posts_helper.rb",
+		"/var/www/Rails/yuva/app/views/blog_categories/show.html.erb",
+		"/var/www/Rails/yuva/app/controllers/blog_categories_controller.rb",
+		"/var/www/Rails/yuva/app/helpers/blog_categories_helper.rb",
+		"/var/www/Rails/yuva/app/views/blog_categories/_form.html.erb",
+		"/var/www/Rails/yuva/app/views/blog_categories/edit.html.erb",
+		"/var/www/Rails/yuva/test/fixtures/blog_categories.yml",
+		"/var/www/Rails/yuva/app/models/blog_category.rb",
+		"/var/www/Rails/yuva/test/models/blog_category_test.rb",
+		"/var/www/Rails/yuva/app/controllers/accounts_controller.rb",
+		"/var/www/Rails/yuva/tmp/cache/assets/development/sass/659385a9890c3738410e4b1ff8a96f006e6d066d/sidebar.css.scssc",
+		"/var/www/Rails/yuva/public/assets/ckeditor/plugins/a11yhelp/dialogs/lang/th.js",
+		"/var/www/Rails/yuva/app/assets/stylesheets/search_results.css.scss",
+		"/var/www/Rails/yuva/app/views/layouts/_head.html.erb",
+		"/var/www/Rails/yuva/app/models/user.rb",
+		"/var/www/Rails/yuva/app/views/admin/index.html.erb",
+		"/var/www/Rails/yuva/app/views/accounts/all.html.erb",
+		"/var/www/Rails/yuva/app/helpers/users_helper.rb",
+		"/var/www/Rails/yuva/app/helpers/accounts_helper.rb",
+		"/var/www/Rails/yuva/app/views/layouts/_header.html.erb",
+		"/var/www/Rails/yuva/yuvatv_heroku_rsa.pub",
+		"/var/www/Rails/yuva/app/assets/stylesheets/admin.css",
+		"/var/www/Rails/yuva/app/assets/stylesheets/admin_main.css.scss",
+		"/var/www/Rails/yuva/db/migrate/20140313103419_add_fields_to_users.rb",
+		"/var/www/Rails/yuva/public/assets/ckeditor/plugins/specialchar/dialogs/lang/th.js",
+		"/var/www/Rails/yuva/app/views/blog_posts/edit.html.erb",
+		"/var/www/Rails/yuva/tmp/cache/4A7/8B1/views%2Fblog_post_list%2F5-1402391139%2F58722e9a0f857596429bc5e679b7af98",
+		"/var/www/Rails/yuva/app/views/layouts/one_col.html.erb",
+		"/var/www/Rails/yuva/app/views/pages/_form.html.erb",
+		"/var/www/Rails/yuva/config.ru",
+		"/var/www/Rails/yuva/public/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru-a5a3be4d3663c70c9731cfd329d258d9.js",
+		"/var/www/Rails/yuva/app/views/pages/all.html.erb",
+		"/var/www/Rails/yuva/app/views/blog_posts/all.html.erb",
+		"/var/www/Rails/yuva/Gemfile",
+		"/var/www/Rails/yuva/test/fixtures/pages.yml",
+		"/var/www/Rails/yuva/log/newrelic_agent.log",
+		"/var/www/Rails/yuva/app/views/users/sessions/new.html.erb",
+		"/var/www/Rails/yuva/public/assets/ckeditor/lang/ro-e67b6b04553e979e63cf9e66bbeef007.js",
+		"/var/www/Rails/yuva/db/migrate/20140612152605_create_roles_to_users.rb",
+		"/var/www/Rails/yuva/tmp/cache/84A/7C1/views%2Fshowslide%2F1402924418140292444314029241861402924198%2F7ed3a710e87d5633f482012c7d56a54b",
+		"/var/www/Rails/yuva/tmp/cache/919/741/views%2Fblog_post_index%2F1401288390--5-1402391139%2F06ce43f393cdc66c3cbedabe2fe3faf9",
+		"/var/www/Rails/yuva/public/assets/ckeditor/lang/vi.js",
+		"/var/www/Rails/yuva/test/fixtures/users.yml",
+		"/var/www/Rails/yuva/config/database.yml",
+		"/var/www/Rails/yuva/db/migrate/20140115131058_create_pages.rb",
+		"/var/www/Rails/yuva/app/views/pages/new.html.erb",
+		"/var/www/Rails/yuva/app/views/pages/show.html.erb",
+		"/var/www/Rails/yuva/app/views/pages/edit.html.erb",
+		"/var/www/Rails/yuva/public/assets/ckeditor/lang/de-d3af2c28b61f6e4f327e09ce77f61689.js",
+		"/var/www/Rails/yuva/public/assets/ckeditor/plugins/about/dialogs/about-d20fabc9b8a24bf63a2d43a80597f862.js",
+		"/var/www/Rails/yuva/app/models/.keep",
+		"/var/www/Rails/yuva/app/views/layouts/_foot.html.erb",
+		"/var/www/Rails/yuva/db/migrate/20140313103420_create_blog_posts.rb",
+		"/var/www/Rails/yuva/db/migrate/20140612152356_create_roles.rb",
+		"/var/www/Rails/yuva/db/migrate/20140606065610_create_sliders.rb",
+		"/var/www/Rails/yuva/config/locales/en.yml",
+		"/var/www/Rails/yuva/public/assets/ckeditor/styles.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br>",
+			"class=\"field",
+			"module",
+			"								\n",
+			"account_params",
+			"Account",
+			":account",
+			"account",
+			"@account",
+			"all",
+			"<%= t :site_name %> ",
+			"panel-info",
+			"fa-list-alt",
+			".new",
+			".find_by_name('author') || Role.create(\n	name:",
+			"Page",
+			"category",
+			"blog_category",
+			"blog_post",
+			"category",
+			"blog_post",
+			"ategory",
+			" border",
+			"%",
+			"clearfix",
+			"cach",
+			"height",
+			"min-height",
+			"cache",
+			"class=\"slide-caption",
+			"slide-caption",
+			"carousel-caption ",
+			"slide-<%= slide.id %>",
+			"carousel-caption ",
+			"arousel-caption ",
+			"slide-content",
+			"@slider",
+			"\">\n",
+			" asset-url",
+			"fonts/",
+			"url",
+			"blog_post",
+			"page",
+			"event",
+			"catego",
+			"news",
+			"collapse",
+			"test",
+			"<%= form_for(:blog_post, :url => { :action => 'create' }, :html => { :role => 'form' }) do |f| %>\n\n	<%= render(:partial => 'form', :locals => {:f => f}) %>\n\n<% end %>",
+			"active",
+			"cache",
+			"blog_post",
+			"@blog_post",
+			"expire_fragment(:blog_post)",
+			"Write fragment",
+			"lobster",
+			"oleo-script",
+			"entity)",
+			".nil?",
+			"title",
+			"meta_keywords",
+			"description",
+			"5px",
+			"darkGrey",
+			"btn-darkGrey",
+			":search",
+			"blog_post",
+			"h2",
+			"h1",
+			"cover",
+			"blog_post",
+			"over1",
+			".blog-post-sidebar",
+			"coda-caption",
+			"mc-field-group",
+			"h2>",
+			"h3",
+			"required=\"true\"",
+			"required",
+			"required=\"true\" ",
+			"form-control",
+			"<input",
+			"class=",
+			" value=\"\"",
+			"type=\"email\"",
+			"mc-field-group",
+			"border",
+			"@BlogPost",
+			" @BlogPost",
+			"news",
+			"expert-speak",
+			"Blog_",
+			"News",
+			"news",
+			"blog_post_category",
+			"news",
+			"@news",
+			"news",
+			"news_category",
+			"NewsC",
+			"News",
+			"news",
+			"@news",
+			"news",
+			"@news",
+			"news",
+			"all_blog_post_path",
+			"news",
+			"news_categories",
+			"NewsC",
+			"news",
+			"News.",
+			"news",
+			"font-family",
+			"upper",
+			"font",
+			"rx_wrapper",
+			"portfolio_settings",
+			"portfolioOptions",
+			"$pSubtitle",
+			"$pSub",
+			"post type",
+			"$permalink",
+			"@media",
+			"myModal",
+			"font-famil",
+			"font-",
+			"blog_post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"file_extension",
+			"file_name",
+			"mdl_product_categories",
+			"product_categorie",
+			"\\$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/Rails/todo"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/tasks_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/tasks/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1025,
+								1025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 49.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/tasks/new.js.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Rails/JavaScript (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/tasks/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/helpers/tasks_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/javascripts/tasks.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/models/task.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"form",
+				"app/views/tasks/_form.html.erb"
+			],
+			[
+				"task.js",
+				"app/assets/javascripts/tasks.js.coffee"
+			],
+			[
+				"create",
+				"db/migrate/20140811182423_create_tasks.rb"
+			],
+			[
+				"task_he",
+				"app/helpers/tasks_helper.rb"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			],
+			[
+				"app.js",
+				"app/assets/javascripts/tasks.js.coffee"
+			],
+			[
+				"app.cs",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"task/in",
+				"app/views/tasks/index.html.erb"
+			],
+			[
+				"crea",
+				"db/migrate/20140811182423_create_tasks.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"task_con",
+				"app/controllers/tasks_controller.rb"
+			],
+			[
+				"model",
+				"app/models/task.rb"
+			],
+			[
+				"_for",
+				"app/views/tasks/_form.html.erb"
+			],
+			[
+				"_header.",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"scaff",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"layouts/",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"ma",
+				"assets/javascript/main.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"main",
+				"assets/stylesheet/main.css"
+			],
+			[
+				"app_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"page_con",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"layouts/admin",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"main.j",
+				"app/assets/javascripts/main.js.coffee"
+			],
+			[
+				"search_co",
+				"app/controllers/search_results_controller.rb"
+			],
+			[
+				"post_con",
+				"app/controllers/blog_posts_controller.rb"
+			],
+			[
+				"model/pos",
+				"app/models/blog_post.rb"
+			],
+			[
+				"_sh",
+				"app/views/sliders/_showslide.html.erb"
+			],
+			[
+				"post_co",
+				"app/controllers/blog_posts_controller.rb"
+			],
+			[
+				"post/in",
+				"app/views/blog_posts/index.html.erb"
+			],
+			[
+				"app_hel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"model/po",
+				"app/models/blog_post.rb"
+			],
+			[
+				"uploa",
+				"app/uploaders/image_uploader.rb"
+			],
+			[
+				"carr",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"mail",
+				"app/views/devise/mailer/confirmation_instructions.html.erb"
+			],
+			[
+				"_form",
+				"app/views/accounts/_form.html.erb"
+			],
+			[
+				"app_he",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"cate_c",
+				"app/controllers/blog_categories_controller.rb"
+			],
+			[
+				"cate/sh",
+				"app/views/blog_categories/show.html.erb"
+			],
+			[
+				"post_he",
+				"app/helpers/blog_posts_helper.rb"
+			],
+			[
+				"_side",
+				"app/views/layouts/_sidebar.html.erb"
+			],
+			[
+				"account_",
+				"app/controllers/accounts_controller.rb"
+			],
+			[
+				"search/",
+				"app/views/search_results/_form.html.erb"
+			],
+			[
+				"_nav",
+				"app/views/layouts/_navbar.html.erb"
+			],
+			[
+				"_head",
+				"app/views/layouts/_head.html.erb"
+			],
+			[
+				"sliders/showslide",
+				"app/views/sliders/_showslide.html.erb"
+			],
+			[
+				"page/in",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"account_he",
+				"app/helpers/accounts_helper.rb"
+			],
+			[
+				"helper",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"account/all",
+				"app/views/accounts/all.html.erb"
+			],
+			[
+				"admin/in",
+				"app/views/admin/index.html.erb"
+			],
+			[
+				"model/us",
+				"app/models/user.rb"
+			],
+			[
+				"abi",
+				"app/models/ability.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"post/s",
+				"app/views/blog_posts/show.html.erb"
+			],
+			[
+				"post/_",
+				"app/views/blog_posts/_form.html.erb"
+			],
+			[
+				"post_c",
+				"app/controllers/blog_posts_controller.rb"
+			],
+			[
+				"posts/ed",
+				"app/views/blog_posts/edit.html.erb"
+			],
+			[
+				"posts/sh",
+				"app/views/blog_posts/show.html.erb"
+			],
+			[
+				"page/_for",
+				"app/views/pages/_form.html.erb"
+			],
+			[
+				"posts/all",
+				"app/views/blog_posts/all.html.erb"
+			],
+			[
+				"page/all",
+				"app/views/pages/all.html.erb"
+			],
+			[
+				"model/pa",
+				"app/models/page.rb"
+			],
+			[
+				"pages_c",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"post/",
+				"app/views/blog_posts/_form.html.erb"
+			],
+			[
+				"all",
+				"app/views/pages/all.html.erb"
+			],
+			[
+				"models/us",
+				"app/models/user.rb"
+			],
+			[
+				"ages/all",
+				"app/views/pages/all.html.erb"
+			],
+			[
+				"abil",
+				"app/models/ability.rb"
+			],
+			[
+				"accounts",
+				"app/controllers/accounts_controller.rb"
+			],
+			[
+				"views/user",
+				"app/views/users/sessions/new.html.erb"
+			],
+			[
+				"users_c",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"application_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"pages/sh",
+				"app/views/pages/show.html.erb"
+			],
+			[
+				"pages/edi",
+				"app/views/pages/edit.html.erb"
+			],
+			[
+				"pages/all",
+				"app/views/pages/all.html.erb"
+			],
+			[
+				"pages/new",
+				"app/views/pages/new.html.erb"
+			],
+			[
+				"add_fields",
+				"db/migrate/20140313103419_add_fields_to_users.rb"
+			],
+			[
+				"pages/_form",
+				"app/views/pages/_form.html.erb"
+			],
+			[
+				"create_page",
+				"db/migrate/20140115131058_create_pages.rb"
+			],
+			[
+				"posts_c",
+				"app/controllers/blog_posts_controller.rb"
+			],
+			[
+				"create_po",
+				"db/migrate/20140313103420_create_blog_posts.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"account/edi",
+				"app/views/accounts/edit.html.erb"
+			],
+			[
+				"account/new",
+				"app/views/accounts/new.html.erb"
+			],
+			[
+				"pages_co",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"posts_",
+				"app/controllers/blog_posts_controller.rb"
+			],
+			[
+				"admin/",
+				"app/views/admin/index.html.erb"
+			],
+			[
+				"account_co",
+				"app/controllers/accounts_controller.rb"
+			],
+			[
+				"account/_form",
+				"app/views/accounts/_form.html.erb"
+			],
+			[
+				"categories_c",
+				"app/controllers/blog_categories_controller.rb"
+			],
+			[
+				"categories/all",
+				"app/views/blog_categories/all.html.erb"
+			],
+			[
+				"events/al",
+				"app/views/events/all.html.erb"
+			],
+			[
+				"events",
+				"app/controllers/events_controller.rb"
+			],
+			[
+				"layouts/ad",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"account/ed",
+				"app/views/accounts/edit.html.erb"
+			],
+			[
+				"account/_",
+				"app/views/accounts/_form.html.erb"
+			],
+			[
+				"accounts/",
+				"app/views/accounts/all.html.erb"
+			],
+			[
+				"applcation_",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"psots/sh",
+				"app/views/blog_posts/show.html.erb"
+			],
+			[
+				"accounts_c",
+				"app/controllers/accounts_controller.rb"
+			],
+			[
+				"posts/_",
+				"app/views/blog_posts/_form.html.erb"
+			],
+			[
+				"account/_f",
+				"app/views/accounts/_form.html.erb"
+			],
+			[
+				"accounts/al",
+				"app/views/accounts/all.html.erb"
+			],
+			[
+				"posts_he",
+				"app/helpers/blog_posts_helper.rb"
+			],
+			[
+				"models/pos",
+				"app/models/blog_post.rb"
+			],
+			[
+				"account_fo",
+				"app/views/accounts/_form.html.erb"
+			],
+			[
+				"account",
+				"app/controllers/accounts_controller.rb"
+			],
+			[
+				"join",
+				"db/migrate/20140313103422_create_blog_categories_join.rb"
+			],
+			[
+				"roles_us",
+				"db/migrate/20140612152605_create_roles_to_users.rb"
+			],
+			[
+				"posts/_f",
+				"app/views/blog_posts/_form.html.erb"
+			],
+			[
+				"account_for",
+				"app/views/accounts/_form.html.erb"
+			],
+			[
+				"add",
+				"db/migrate/20140612152605_add_roles_to_users.rb"
+			],
+			[
+				"models/role",
+				"app/models/roles.rb"
+			],
+			[
+				"applica_he",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"models/ro",
+				"app/models/roles.rb"
+			],
+			[
+				"add_ro",
+				"db/migrate/20140612152605_add_roles_to_users.rb"
+			],
+			[
+				"add_",
+				"app/models/add_roles_to_users.rb"
+			],
+			[
+				"createro",
+				"db/migrate/20140612152356_create_roles.rb"
+			],
+			[
+				"ele",
+				"app/assets/stylesheets/elements.css.scss"
+			],
+			[
+				"posts.css",
+				"app/assets/stylesheets/blog_posts.css.scss"
+			],
+			[
+				"posts/in",
+				"app/views/blog_posts/index.html.erb"
+			],
+			[
+				"_foot",
+				"app/views/layouts/_foot.html.erb"
+			],
+			[
+				"envi",
+				"config/environments/development.rb"
+			],
+			[
+				"sliders/sh",
+				"app/views/sliders/_showslide.html.erb"
+			],
+			[
+				"layouts/two",
+				"app/views/layouts/two_col_right_sidebar.html.erb"
+			],
+			[
+				"application_he",
+				"app/helpers/application_helper.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeTextProjects/auramax-ror.sublime-workspace"
+			],
+			[
+				"is",
+				"~/SublimeTextProjects/ishouvik-ROR.sublime-project"
+			],
+			[
+				"dor",
+				"~/SublimeTextProjects/dorit-WP.sublime-workspace"
+			],
+			[
+				"do",
+				"~/SublimeTextProjects/dorit-WP.sublime-workspace"
+			],
+			[
+				"ish",
+				"/home/shouvik/SublimeTextProjects/ishouvik.sublime-project"
+			],
+			[
+				"c",
+				"/home/shouvik/SublimeTextProjects/chennai-food-festival-ci.sublime-project"
+			],
+			[
+				"an",
+				"/home/shouvik/SublimeTextProjects/anup.sublime-project"
+			],
+			[
+				"cf",
+				"/home/shouvik/SublimeTextProjects/chennai-food-festival-ci.sublime-project"
+			],
+			[
+				"lara",
+				"/home/shouvik/SublimeTextProjects/laravel.sublime-project"
+			],
+			[
+				"larave",
+				"/home/shouvik/SublimeTextProjects/laravel.sublime-project"
+			],
+			[
+				"larav",
+				"/home/shouvik/SublimeTextProjects/laravel.sublime-project"
+			],
+			[
+				"anup",
+				"/home/shouvik/SublimeTextProjects/anup.sublime-project"
+			],
+			[
+				"laravel",
+				"/home/shouvik/SublimeTextProjects/laravel.sublime-project"
+			],
+			[
+				"anu",
+				"/home/shouvik/SublimeTextProjects/anup.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

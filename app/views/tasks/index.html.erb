@@ -1,0 +1,28 @@
+<div id="task-form"></div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Content</th>
+      <th>Scheduled at</th>
+      <th>Completed</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @tasks.each do |task| %>
+      <tr>
+        <td><%= task.title %></td>
+        <td><%= task.content %></td>
+        <td><%= task.scheduled_at.strftime("%d %B, %Y %l:%M %P") %></td>
+        <td><%= is_complete(task) %></td>
+        <td><%= link_to "<i class='fa fa-pencil'></i>".html_safe, edit_task_path(task), remote: true %></td>
+        <td><%= link_to "<i class='fa fa-trash-o'></i>".html_safe, task, method: :delete, data: { confirm: t(:del_confirm) } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= paginate @tasks %>
